@@ -1,0 +1,14 @@
+.todo-list-bar-filter-buttons button {
+    font-family: "Fira Code", monospace;
+    text-align: center;
+
+    font-size: 18px;
+    color: #D8DDEF;
+
+    border: none;
+}
+
+.chosen {
+    padding: 1px 2px;
+    outline: ridge antiquewhite;
+}

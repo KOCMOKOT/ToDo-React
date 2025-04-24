@@ -1,0 +1,10 @@
+.app-header {
+    padding-top: 50px;
+    margin-bottom: 50px;
+
+    font-size: 100px;
+    font-weight: bold;
+
+    color: #FFA947;
+    text-shadow: #7A4100 3px 3px 3px;
+}

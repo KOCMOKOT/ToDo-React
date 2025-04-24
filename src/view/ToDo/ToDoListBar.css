@@ -1,0 +1,24 @@
+.todo-list-bar {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+    max-width: 750px;
+    height: 30px;
+    margin: 0 auto;
+
+    background: #444444;
+
+    font-size: 18px;
+    color: #D8DDEF;
+}
+
+.todo-list-bar button {
+    font-size: 16px;
+    background: #444444;
+    color: #D8DDEF;
+}
+
+.hidden {
+    display: none !important;
+}

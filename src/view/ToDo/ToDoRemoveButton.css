@@ -1,0 +1,12 @@
+.todo-remove-button {
+    position: absolute;
+    bottom: 0;
+    right: 15px;
+
+    color: #FFA947;
+    font-size: 30px;
+    font-weight: bold;
+    background: #444444;
+
+    border: none;
+}

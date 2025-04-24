@@ -1,0 +1,17 @@
+.todo-row {
+    position: relative;
+
+    box-sizing: border-box;
+    height: 45px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 25px;
+
+    border-bottom: 1px solid #7d8dca;
+}
+
+.completed {
+    text-decoration: line-through;
+    text-decoration-thickness: 3px;
+}
